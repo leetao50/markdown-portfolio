@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+ordered list
+1 😧
+2 🆎
+
+unordered lis
+* 🉑
+* ⚛️
+  * 🐈‍⬛
+  * 🧮 
+ ----------------
+ - 🥉
+ - 🥈
